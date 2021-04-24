@@ -1,0 +1,43 @@
+.navbar-brand{
+    font-family: Georgia,Times,Times New Roman,serif;
+    font-weight: bold;
+}
+.navbar.navbar-expand-lg.bg-dark{
+    background-color: #212529!important;
+}
+.navbar.navbar-expand-lg{
+    font-size: 0.875rem;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+body {
+    font-family: 'lato', Roboto, 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+.navbar.navbar-expand-lg .nav-link.btn{
+    color: rgba(255, 255, 255, 0.75)
+}
+.navbar.navbar-expand-lg .btn {
+    font-size: 0.875rem;
+    margin-left: 8px;
+    margin-top: 1px;
+    padding:10px;
+    
+}
+.searchbox {
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 32px!important;
+    white-space: nowrap;
+    box-sizing: border-box;
+    visibility: visible!important;
+}
+

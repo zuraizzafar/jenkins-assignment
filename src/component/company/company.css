@@ -1,0 +1,29 @@
+#sponsorsblock {
+  padding: 1rem 2rem;
+}
+
+#sponsorsblock ul, #sponsorsblock p {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+#sponsorsblock li {
+  display: inline;
+  padding: 1rem;
+}
+
+.sponsors a:hover {
+  text-decoration: none;
+}
+
+.supporters {
+  padding-top: 1.5rem;
+}
+
+.supporters a {
+  font-weight: bold;
+}
+.jumbotron {
+    background-color: #F8F9FB;
+}

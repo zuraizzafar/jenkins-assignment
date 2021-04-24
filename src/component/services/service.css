@@ -1,0 +1,49 @@
+.uniform-height .box>h5 {
+    line-height: 1.3em;
+    font-size: 1.1rem;
+    margin-bottom: .33rem;
+}
+.uniform-height .box {
+    padding: .67rem .75rem 0 4rem;
+    position: relative;
+    border-radius: 5px;
+    min-height: 10rem;
+}
+.uniform-height .box i, .uniform-height .box:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0rem;
+    top: .75rem;
+    width: 3.25rem;
+    height: 3.25rem;
+    line-height: 3.25rem;
+    background: #168bb9;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    font-size: 1.75rem;
+  
+    margin-right:10px;
+}
+ [class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+} 
+.chunks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+} 
+.segment{
+    margin-top: 50px;
+    
+}
+p{
+    font-size: 13px;
+}

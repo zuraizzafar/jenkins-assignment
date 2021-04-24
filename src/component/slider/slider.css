@@ -1,0 +1,19 @@
+#ProjectCarousel_562 {
+    background: #000000 url(../../assets/cdf-background-wide.jpg) no-repeat center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.carousel_562 {
+    background-size: cover !important;
+  }
+  .carousel_562 a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none !important;
+  }
+  .carousel_562 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
